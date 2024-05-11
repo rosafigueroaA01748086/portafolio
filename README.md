@@ -1,4 +1,4 @@
-# Rosa Itzel Figueroa Rosas
+
 Portafolio
 ## Ingeniera en Tecnologías Computacionales
 
