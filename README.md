@@ -1,11 +1,11 @@
 
 Portafolio
-## Ingeniera en Tecnologías Computacionales
+### Ingeniera en Tecnologías Computacionales
 
-### Acerca de mí
+## Acerca de mí
 Estudiante de sexto semestre en Ingeniería en Tecnologías Computacionales Tecnologías, con experiencia práctica en el diseño, desarrollo e implementación de soluciones tecnológicas. Dedicada al aprendizaje continuo y al mejoramiento constante en el desarrollo de software.
 
-### Estudios 
+## Estudios 
 
 Tecnológico de Monterrey Campus Estado de México
 Ingeniería en Tecnologías Computacionales
@@ -16,9 +16,9 @@ Tecnológico de Monterrey Campus Estado de México
 Bicultural High School
 August 2018 – June 2021
 
-### Proyectos
+## Proyectos
 
-#### Aplicaciones Inbursa</h3>
+#### Aplicaciones Inbursa
 Amazon Web Services
 
 Desarrollo de un ambiente completo de Call Center para el banco Inbursa. Desarrollo de una aplicación móvil de la mano de la herramienta de Amazon Connect, interfaz web para el Agente y una interfaz web para Supervisor
@@ -73,14 +73,12 @@ Implementación de un jugador con una estrategia inteligente para el juego "Knig
 
 https://github.com/rosafigueroaA01748086/CaballosBailarines">Ver más
 
-
-
-### Idiomas
+## Idiomas
 - Español - Nativo
 - Inglés - B2 (TOEFL - B2, 2024)
 - Alemán - A1
 
-### Habilidades
+## Habilidades
 
 -  Pensamiento crítico
 -  Adaptabilidad
@@ -91,7 +89,7 @@ https://github.com/rosafigueroaA01748086/CaballosBailarines">Ver más
 -  Habilidad comunicativa
 -  Proactividad
 
-### Contacto
+## Contacto
 rosafigueroa.r@outlook.com
 
 
