@@ -22,10 +22,10 @@ August 2018 – June 2021
 
 ## Proyectos
 
-#### Aplicaciones Inbursa
+#### Sistema de Servicio al cliente Inbursa
 Amazon Web Services
 
-Desarrollo de un ambiente completo de Call Center para el banco Inbursa. Desarrollo de una aplicación móvil de la mano de la herramienta de Amazon Connect, interfaz web para el Agente y una interfaz web para Supervisor
+Desarrollo de un ambiente completo de Call Center para el banco Inbursa. Desarrollo de una aplicación web para el Agente que se encarga de integrar las herramienta de Call Center que nos brinda Amazon Connect, una interfaz web para controlar a los Agentes destinada para el Supervisor  y aplicación móvil para el Cliente. 
 
 [Proyecto] (https://github.com/Inbursa-CEM)
 
